@@ -1,8 +1,5 @@
 > [!IMPORTANT]
 > this is what happens when you ban the developer that coded 90% of the server 🤦  
 > this is from november 2025, so probally all the things that were in here vulnerabilities wise are patched, go ahead and try though   
-> oh yeah, removed all of the stuff that was rude to leak so yeah (private key, jwt token secret, mongodb connection url, ect.)  
+> oh yeah, removed all of the stuff that was bad (private key, jwt token secret, mongodb connection url, ect.)  
 > also star the repo if you like this, i want stars 🥺  
-> fuck you supergamer ✌️  
-> dont ask me how to set this up, figure it out. this is for 20200320 btw  
-> discord.gg/vanillarec is just better 😭
